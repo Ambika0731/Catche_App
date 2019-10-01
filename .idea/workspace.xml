@@ -40,269 +40,267 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Retryapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6929392" vertical-offset="74956" max-vertical-offset="85034">
-              <caret line="4434" column="26" selection-start-line="4434" selection-start-column="26" selection-end-line="4434" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.3322884" vertical-offset="19882" max-vertical-offset="85051">
+              <caret line="1182" column="32" selection-start-line="1182" selection-start-column="4" selection-end-line="1182" selection-end-column="32" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
-                <marker date="1565545375123" expanded="true" signature="2406:2440" placeholder="select * fro..login..." />
-                <marker date="1565545375123" expanded="true" signature="2575:2616" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="2949:2998" placeholder="select inter..user_interest..." />
-                <marker date="1565545375123" expanded="true" signature="4297:4343" placeholder="select app_i..user_app..." />
-                <marker date="1565545375123" expanded="true" signature="4498:4541" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="4891:4941" placeholder="select web_i..user_website..." />
-                <marker date="1565545375123" expanded="true" signature="5127:5162" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="5334:5386" placeholder="select soft_..user_software..." />
-                <marker date="1565545375123" expanded="true" signature="5526:5579" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="5992:6035" placeholder="select passw..login..." />
-                <marker date="1565545375123" expanded="true" signature="6703:6726" placeholder="select * fro..age_range..." />
-                <marker date="1565545375123" expanded="true" signature="6806:6842" placeholder="select * fro..educational_background..." />
-                <marker date="1565545375123" expanded="true" signature="6934:6953" placeholder="select * fro..state..." />
-                <marker date="1565545375123" expanded="true" signature="7028:7050" placeholder="select * fro..language..." />
-                <marker date="1565545375123" expanded="true" signature="7128:7148" placeholder="select * fro..income..." />
-                <marker date="1565545375123" expanded="true" signature="7224:7248" placeholder="select * fro..profession..." />
-                <marker date="1565545375123" expanded="true" signature="7328:7350" placeholder="select * fro..interest..." />
-                <marker date="1565545375123" expanded="true" signature="8023:8093" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="8677:8739" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="8983:9048" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="9726:9796" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="10383:10447" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="11173:11222" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="11872:11909" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="12126:12170" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="13223:13259" placeholder="select * fro..login..." />
-                <marker date="1565545375123" expanded="true" signature="13438:13500" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="13798:13953" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="14340:14398" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="14934:15089" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="15441:15499" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="16074:16229" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="16616:16674" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="17080:17235" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="17586:17644" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="18335:18358" placeholder="select * fro..age_range..." />
-                <marker date="1565545375123" expanded="true" signature="18462:18498" placeholder="select * fro..educational_background..." />
-                <marker date="1565545375123" expanded="true" signature="18614:18633" placeholder="select * fro..state..." />
-                <marker date="1565545375123" expanded="true" signature="18732:18754" placeholder="select * fro..language..." />
-                <marker date="1565545375123" expanded="true" signature="18856:18876" placeholder="select * fro..income..." />
-                <marker date="1565545375123" expanded="true" signature="18976:19000" placeholder="select * fro..profession..." />
-                <marker date="1565545375123" expanded="true" signature="19104:19126" placeholder="select * fro..interest..." />
-                <marker date="1565545375123" expanded="true" signature="19887:19957" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="20541:20603" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="20847:20912" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="21291:21332" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="21712:21754" placeholder="select * fro..user_interest..." />
-                <marker date="1565545375123" expanded="true" signature="23274:23323" placeholder="select * fro..recommendation_data..." />
-                <marker date="1565545375123" expanded="true" signature="24833:24875" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="26559:26620" placeholder="select lid,r..login..." />
-                <marker date="1565545375123" expanded="true" signature="27012:27058" placeholder="select statu..registration..." />
-                <marker date="1565545375123" expanded="true" signature="27243:27297" placeholder="select usern..registration..." />
-                <marker date="1565545375123" expanded="true" signature="28871:28921" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="29621:29691" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="30391:30461" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="30905:30967" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="31190:31252" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="31484:31549" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="31956:32021" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="32792:32830" placeholder="select email..login..." />
-                <marker date="1565545375123" expanded="true" signature="32972:33013" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="33149:33191" placeholder="select * fro..user_interest..." />
-                <marker date="1565545375123" expanded="true" signature="35140:35278" placeholder="update regis..." />
-                <marker date="1565545375123" expanded="true" signature="35465:35521" placeholder="update login..." />
-                <marker date="1565545375123" expanded="true" signature="35738:35783" placeholder="select image..registration..." />
-                <marker date="1565545375123" expanded="true" signature="35906:36044" placeholder="update regis..." />
-                <marker date="1565545375123" expanded="true" signature="36230:36286" placeholder="update login..." />
-                <marker date="1565545375123" expanded="true" signature="36489:36532" placeholder="select rid f..registration..." />
-                <marker date="1565545375123" expanded="true" signature="36643:36683" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="36796:36854" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="37181:37207" placeholder="SELECT * FRO..registration..." />
-                <marker date="1565545375123" expanded="true" signature="39165:39207" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="41654:41951" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="42583:42648" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="49247:49348" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="50488:50614" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="51064:51165" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="51705:51831" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="52068:52110" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="52267:52325" placeholder="select scree..app_screenshots..." />
-                <marker date="1565545375123" expanded="true" signature="52643:52694" placeholder="select * fro..app_reviews_result..." />
-                <marker date="1565545375123" expanded="true" signature="52879:52923" placeholder="select * fro..reviews_topic..." />
-                <marker date="1565545375123" expanded="true" signature="53297:53354" placeholder="select * fro..user_app..." />
-                <marker date="1565545375123" expanded="true" signature="53539:53622" placeholder="select statu..user_app_like_dislike_status..." />
-                <marker date="1565545375123" expanded="true" signature="58126:58227" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="59367:59493" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="59943:60044" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="60584:60710" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="60947:60989" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="61146:61204" placeholder="select scree..app_screenshots..." />
-                <marker date="1565545375123" expanded="true" signature="61522:61573" placeholder="select * fro..app_reviews_result..." />
-                <marker date="1565545375123" expanded="true" signature="61758:61802" placeholder="select * fro..reviews_topic..." />
-                <marker date="1565545375123" expanded="true" signature="62176:62233" placeholder="select * fro..user_app..." />
-                <marker date="1565545375123" expanded="true" signature="62418:62501" placeholder="select statu..user_app_like_dislike_status..." />
-                <marker date="1565545375123" expanded="true" signature="66183:66234" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="66350:66408" placeholder="select scree..app_screenshots..." />
-                <marker date="1565545375123" expanded="true" signature="66721:66772" placeholder="select * fro..app_reviews_result..." />
-                <marker date="1565545375123" expanded="true" signature="67022:67066" placeholder="select * fro..reviews_topic..." />
-                <marker date="1565545375123" expanded="true" signature="70563:70620" placeholder="select * fro..user_app..." />
-                <marker date="1565545375123" expanded="true" signature="70815:70898" placeholder="select statu..user_app_like_dislike_status..." />
-                <marker date="1565545375123" expanded="true" signature="74748:74782" placeholder="select * FRO..web..." />
-                <marker date="1565545375123" expanded="true" signature="78431:78728" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="81798:81904" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="82265:82371" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="82565:82671" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="83109:83215" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="83409:83515" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="83710:83816" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="84250:84356" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="84550:84656" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="84851:84957" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="85151:85257" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="85466:85572" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="85750:85856" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="86035:86141" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="86319:86425" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="86603:86709" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="86911:86945" placeholder="select * FRO..web..." />
-                <marker date="1565545375123" expanded="true" signature="87194:87235" placeholder="select * FRO..web_table..." />
-                <marker date="1565545375123" expanded="true" signature="88318:88379" placeholder="select * fro..user_website..." />
-                <marker date="1565545375123" expanded="true" signature="88554:88641" placeholder="select statu..user_website_like_dislike_status..." />
-                <marker date="1565545375123" expanded="true" signature="91835:91869" placeholder="select * FRO..web..." />
-                <marker date="1565545375123" expanded="true" signature="92215:92258" placeholder="update web S..." />
-                <marker date="1565545375123" expanded="true" signature="92355:92396" placeholder="select * FRO..web_table..." />
-                <marker date="1565545375123" expanded="true" signature="93433:93494" placeholder="select * fro..user_website..." />
-                <marker date="1565545375123" expanded="true" signature="93669:93756" placeholder="select statu..user_website_like_dislike_status..." />
-                <marker date="1565545375123" expanded="true" signature="97398:97450" placeholder="select * FRO..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="98300:98343" placeholder="select * FRO..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="98570:98631" placeholder="update new_s..." />
-                <marker date="1565545375123" expanded="true" signature="99532:99595" placeholder="select * fro..user_software..." />
-                <marker date="1565545375123" expanded="true" signature="99731:99820" placeholder="select statu..user_software_like_dislike_status..." />
-                <marker date="1565545375123" expanded="true" signature="114998:115053" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="115708:115763" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="116909:116968" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="117631:117690" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="118881:118942" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="119753:119814" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="120717:120796" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="121798:121884" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="122767:122855" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="123713:123800" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="123905:123955" placeholder="select app_l..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="124301:124355" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="125032:125107" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="125484:125537" placeholder="select app_d..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="125735:125792" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="126599:126690" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="126796:126838" placeholder="select web_l..web..." />
-                <marker date="1565545375123" expanded="true" signature="127185:127231" placeholder="update web S..." />
-                <marker date="1565545375123" expanded="true" signature="127917:127996" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="128373:128418" placeholder="select web_d..web..." />
-                <marker date="1565545375123" expanded="true" signature="128616:128665" placeholder="update web S..." />
-                <marker date="1565545375123" expanded="true" signature="129475:129568" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="129709:129780" placeholder="select title..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="130169:130238" placeholder="update new_s..." />
-                <marker date="1565545375123" expanded="true" signature="130928:131009" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="131387:131455" placeholder="select softw..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="131654:131726" placeholder="update new_s..." />
-                <marker date="1565545375123" expanded="true" signature="132470:132514" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="132724:132762" placeholder="select email..login..." />
-                <marker date="1565545375123" expanded="true" signature="133418:133468" placeholder="update regis..." />
-                <marker date="1565545375123" expanded="true" signature="133542:133585" placeholder="select lid f..registration..." />
-                <marker date="1565545375123" expanded="true" signature="133653:133691" placeholder="select email..login..." />
-                <marker date="1565545375123" expanded="true" signature="134217:134261" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="134473:134511" placeholder="select email..login..." />
-                <marker date="1565545375123" expanded="true" signature="135153:135196" placeholder="select lid f..registration..." />
-                <marker date="1565545375123" expanded="true" signature="135314:135354" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="135424:135463" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="135532:135564" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="135655:135699" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="135911:135949" placeholder="select email..login..." />
-                <marker date="1565545375123" expanded="true" signature="137048:137090" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="138791:139077" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="139600:139665" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="140274:140375" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="141287:141413" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="141762:141819" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="141987:142044" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="143769:143839" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="144339:144393" placeholder="select app_c..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="144567:144625" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="144768:144826" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="144936:145006" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="145773:145815" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="147516:147802" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="148320:148385" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="148994:149095" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="150007:150133" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="150487:150544" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="150712:150769" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="152236:152306" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="152780:152834" placeholder="select app_c..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="153002:153060" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="153203:153261" placeholder="update app_d..." />
-                <marker date="1565545375123" expanded="true" signature="153377:153447" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="153933:153980" placeholder="select site_..website..." />
-                <marker date="1565545375123" expanded="true" signature="154094:154132" placeholder="select title..web..." />
-                <marker date="1565545375123" expanded="true" signature="158202:158488" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="161557:161663" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="162024:162130" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="162324:162430" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="162868:162974" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="163168:163274" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="163469:163575" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="164009:164115" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="164309:164415" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="164610:164716" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="164910:165016" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="165225:165331" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="165509:165615" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="165794:165900" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="166078:166184" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="166362:166468" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="167129:167177" placeholder="select web_i..web..." />
-                <marker date="1565545375123" expanded="true" signature="167673:167715" placeholder="select categ..web..." />
-                <marker date="1565545375123" expanded="true" signature="167850:167896" placeholder="update web S..." />
-                <marker date="1565545375123" expanded="true" signature="168013:168061" placeholder="select web_i..web..." />
-                <marker date="1565545375123" expanded="true" signature="168804:168847" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="170101:170145" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="170659:170710" placeholder="delete from ..." />
-                <marker date="1565545375123" expanded="true" signature="170782:170826" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="180716:180786" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="181240:181286" placeholder="select app_i..user_app..." />
-                <marker date="1565545375123" expanded="true" signature="181413:181456" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="182215:182265" placeholder="select web_i..user_website..." />
-                <marker date="1565545375123" expanded="true" signature="182380:182415" placeholder="select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="182994:183046" placeholder="select soft_..user_software..." />
-                <marker date="1565545375123" expanded="true" signature="183161:183214" placeholder="select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="183889:183934" placeholder="Select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="184464:184501" placeholder="Select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="184692:184738" placeholder="Select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="185118:185163" placeholder="Select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="185609:185646" placeholder="Select * fro..web..." />
-                <marker date="1565545375123" expanded="true" signature="185807:185853" placeholder="Select * fro..new_software..." />
-                <marker date="1565545375123" expanded="true" signature="186768:186810" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="189231:189528" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="190079:190144" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="190847:190948" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="191936:192062" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="192448:192549" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="193009:193135" placeholder="insert into ..." />
-                <marker date="1565545375123" expanded="true" signature="194391:194432" placeholder="select * fro..registration..." />
-                <marker date="1565545375123" expanded="true" signature="194784:194826" placeholder="select * fro..user_interest..." />
-                <marker date="1565545375123" expanded="true" signature="196270:196319" placeholder="select * fro..recommendation_data..." />
-                <marker date="1565545375123" expanded="true" signature="200116:200158" placeholder="select * fro..app_details..." />
-                <marker date="1565545375123" expanded="true" signature="201856:201937" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="2406:2440" placeholder="select * fro..login..." />
+                <marker date="1568735605437" expanded="true" signature="2575:2616" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="2949:2998" placeholder="select inter..user_interest..." />
+                <marker date="1568735605437" expanded="true" signature="4297:4343" placeholder="select app_i..user_app..." />
+                <marker date="1568735605437" expanded="true" signature="4498:4541" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="4891:4941" placeholder="select web_i..user_website..." />
+                <marker date="1568735605437" expanded="true" signature="5127:5162" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="5334:5386" placeholder="select soft_..user_software..." />
+                <marker date="1568735605437" expanded="true" signature="5526:5579" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="5992:6035" placeholder="select passw..login..." />
+                <marker date="1568735605437" expanded="true" signature="6703:6726" placeholder="select * fro..age_range..." />
+                <marker date="1568735605437" expanded="true" signature="6806:6842" placeholder="select * fro..educational_background..." />
+                <marker date="1568735605437" expanded="true" signature="6934:6953" placeholder="select * fro..state..." />
+                <marker date="1568735605437" expanded="true" signature="7028:7050" placeholder="select * fro..language..." />
+                <marker date="1568735605437" expanded="true" signature="7128:7148" placeholder="select * fro..income..." />
+                <marker date="1568735605437" expanded="true" signature="7224:7248" placeholder="select * fro..profession..." />
+                <marker date="1568735605437" expanded="true" signature="7328:7350" placeholder="select * fro..interest..." />
+                <marker date="1568735605437" expanded="true" signature="8023:8093" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="8677:8739" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="8983:9048" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="9726:9796" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="10383:10447" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="11173:11222" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="11872:11909" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="12126:12170" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="13223:13259" placeholder="select * fro..login..." />
+                <marker date="1568735605437" expanded="true" signature="13438:13500" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="13798:13953" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="14340:14398" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="14934:15089" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="15441:15499" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="16074:16229" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="16616:16674" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="17080:17235" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="17586:17644" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="18335:18358" placeholder="select * fro..age_range..." />
+                <marker date="1568735605437" expanded="true" signature="18462:18498" placeholder="select * fro..educational_background..." />
+                <marker date="1568735605437" expanded="true" signature="18614:18633" placeholder="select * fro..state..." />
+                <marker date="1568735605437" expanded="true" signature="18732:18754" placeholder="select * fro..language..." />
+                <marker date="1568735605437" expanded="true" signature="18856:18876" placeholder="select * fro..income..." />
+                <marker date="1568735605437" expanded="true" signature="18976:19000" placeholder="select * fro..profession..." />
+                <marker date="1568735605437" expanded="true" signature="19104:19126" placeholder="select * fro..interest..." />
+                <marker date="1568735605437" expanded="true" signature="19887:19957" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="20541:20603" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="20847:20912" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="21291:21332" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="21712:21754" placeholder="select * fro..user_interest..." />
+                <marker date="1568735605437" expanded="true" signature="23274:23323" placeholder="select * fro..recommendation_data..." />
+                <marker date="1568735605437" expanded="true" signature="24833:24875" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="26559:26620" placeholder="select lid,r..login..." />
+                <marker date="1568735605437" expanded="true" signature="27012:27058" placeholder="select statu..registration..." />
+                <marker date="1568735605437" expanded="true" signature="27243:27297" placeholder="select usern..registration..." />
+                <marker date="1568735605437" expanded="true" signature="28871:28921" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="29621:29691" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="30391:30461" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="30905:30967" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="31190:31252" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="31484:31549" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="31956:32021" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="32792:32830" placeholder="select email..login..." />
+                <marker date="1568735605437" expanded="true" signature="32972:33013" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="33149:33191" placeholder="select * fro..user_interest..." />
+                <marker date="1568735605437" expanded="true" signature="35140:35278" placeholder="update regis..." />
+                <marker date="1568735605437" expanded="true" signature="35465:35521" placeholder="update login..." />
+                <marker date="1568735605437" expanded="true" signature="35738:35783" placeholder="select image..registration..." />
+                <marker date="1568735605437" expanded="true" signature="35906:36044" placeholder="update regis..." />
+                <marker date="1568735605437" expanded="true" signature="36230:36286" placeholder="update login..." />
+                <marker date="1568735605437" expanded="true" signature="36489:36532" placeholder="select rid f..registration..." />
+                <marker date="1568735605437" expanded="true" signature="36643:36683" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="36796:36854" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="37181:37207" placeholder="SELECT * FRO..registration..." />
+                <marker date="1568735605437" expanded="true" signature="39165:39207" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="41654:41951" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="42583:42648" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="49247:49348" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="50488:50614" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="51064:51165" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="51705:51831" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="52068:52110" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="52267:52325" placeholder="select scree..app_screenshots..." />
+                <marker date="1568735605437" expanded="true" signature="52643:52694" placeholder="select * fro..app_reviews_result..." />
+                <marker date="1568735605437" expanded="true" signature="52879:52923" placeholder="select * fro..reviews_topic..." />
+                <marker date="1568735605437" expanded="true" signature="53297:53354" placeholder="select * fro..user_app..." />
+                <marker date="1568735605437" expanded="true" signature="53539:53622" placeholder="select statu..user_app_like_dislike_status..." />
+                <marker date="1568735605437" expanded="true" signature="58126:58227" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="59367:59493" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="59943:60044" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="60584:60710" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="60947:60989" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="61146:61204" placeholder="select scree..app_screenshots..." />
+                <marker date="1568735605437" expanded="true" signature="61522:61573" placeholder="select * fro..app_reviews_result..." />
+                <marker date="1568735605437" expanded="true" signature="61758:61802" placeholder="select * fro..reviews_topic..." />
+                <marker date="1568735605437" expanded="true" signature="62176:62233" placeholder="select * fro..user_app..." />
+                <marker date="1568735605437" expanded="true" signature="62418:62501" placeholder="select statu..user_app_like_dislike_status..." />
+                <marker date="1568735605437" expanded="true" signature="66183:66234" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="66350:66408" placeholder="select scree..app_screenshots..." />
+                <marker date="1568735605437" expanded="true" signature="66721:66772" placeholder="select * fro..app_reviews_result..." />
+                <marker date="1568735605437" expanded="true" signature="67022:67066" placeholder="select * fro..reviews_topic..." />
+                <marker date="1568735605437" expanded="true" signature="70563:70620" placeholder="select * fro..user_app..." />
+                <marker date="1568735605437" expanded="true" signature="70815:70898" placeholder="select statu..user_app_like_dislike_status..." />
+                <marker date="1568735605437" expanded="true" signature="74748:74782" placeholder="select * FRO..web..." />
+                <marker date="1568735605437" expanded="true" signature="78431:78728" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="81798:81904" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="82265:82371" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="82565:82671" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="83109:83215" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="83409:83515" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="83710:83816" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="84250:84356" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="84550:84656" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="84851:84957" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="85151:85257" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="85466:85572" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="85750:85856" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="86035:86141" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="86319:86425" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="86603:86709" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="86911:86945" placeholder="select * FRO..web..." />
+                <marker date="1568735605437" expanded="true" signature="87194:87235" placeholder="select * FRO..web_table..." />
+                <marker date="1568735605437" expanded="true" signature="88318:88379" placeholder="select * fro..user_website..." />
+                <marker date="1568735605437" expanded="true" signature="88554:88641" placeholder="select statu..user_website_like_dislike_status..." />
+                <marker date="1568735605437" expanded="true" signature="91835:91869" placeholder="select * FRO..web..." />
+                <marker date="1568735605437" expanded="true" signature="92215:92258" placeholder="update web S..." />
+                <marker date="1568735605437" expanded="true" signature="92355:92396" placeholder="select * FRO..web_table..." />
+                <marker date="1568735605437" expanded="true" signature="93433:93494" placeholder="select * fro..user_website..." />
+                <marker date="1568735605437" expanded="true" signature="93669:93756" placeholder="select statu..user_website_like_dislike_status..." />
+                <marker date="1568735605437" expanded="true" signature="97398:97450" placeholder="select * FRO..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="98300:98343" placeholder="select * FRO..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="98570:98631" placeholder="update new_s..." />
+                <marker date="1568735605437" expanded="true" signature="99532:99595" placeholder="select * fro..user_software..." />
+                <marker date="1568735605437" expanded="true" signature="99731:99820" placeholder="select statu..user_software_like_dislike_status..." />
+                <marker date="1568735605437" expanded="true" signature="114998:115053" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="115708:115763" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="116909:116968" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="117631:117690" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="118881:118942" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="119753:119814" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="120717:120796" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="121798:121884" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="122767:122855" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="123713:123800" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="123905:123955" placeholder="select app_l..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="124301:124355" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="125032:125107" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="125484:125537" placeholder="select app_d..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="125735:125792" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="126599:126690" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="126796:126838" placeholder="select web_l..web..." />
+                <marker date="1568735605437" expanded="true" signature="127185:127231" placeholder="update web S..." />
+                <marker date="1568735605437" expanded="true" signature="127917:127996" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="128373:128418" placeholder="select web_d..web..." />
+                <marker date="1568735605437" expanded="true" signature="128616:128665" placeholder="update web S..." />
+                <marker date="1568735605437" expanded="true" signature="129475:129568" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="129709:129780" placeholder="select title..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="130169:130238" placeholder="update new_s..." />
+                <marker date="1568735605437" expanded="true" signature="130928:131009" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="131387:131455" placeholder="select softw..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="131654:131726" placeholder="update new_s..." />
+                <marker date="1568735605437" expanded="true" signature="132470:132514" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="132724:132762" placeholder="select email..login..." />
+                <marker date="1568735605437" expanded="true" signature="133418:133468" placeholder="update regis..." />
+                <marker date="1568735605437" expanded="true" signature="133542:133585" placeholder="select lid f..registration..." />
+                <marker date="1568735605437" expanded="true" signature="133653:133691" placeholder="select email..login..." />
+                <marker date="1568735605437" expanded="true" signature="134217:134261" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="134473:134511" placeholder="select email..login..." />
+                <marker date="1568735605437" expanded="true" signature="135153:135196" placeholder="select lid f..registration..." />
+                <marker date="1568735605437" expanded="true" signature="135314:135354" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="135424:135463" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="135532:135564" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="135655:135699" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="135911:135949" placeholder="select email..login..." />
+                <marker date="1568735605437" expanded="true" signature="137048:137090" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="138792:139078" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="139601:139666" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="140275:140376" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="141288:141414" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="141763:141820" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="141988:142045" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="143770:143840" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="144340:144394" placeholder="select app_c..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="144568:144626" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="144769:144827" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="144937:145007" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="145774:145816" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="147517:147803" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="148321:148386" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="148995:149096" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="150008:150134" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="150488:150545" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="150713:150770" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="152237:152307" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="152781:152835" placeholder="select app_c..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="153003:153061" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="153204:153262" placeholder="update app_d..." />
+                <marker date="1568735605437" expanded="true" signature="153378:153448" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="153934:153981" placeholder="select site_..website..." />
+                <marker date="1568735605437" expanded="true" signature="154095:154133" placeholder="select title..web..." />
+                <marker date="1568735605437" expanded="true" signature="158203:158489" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="161558:161664" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="162025:162131" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="162325:162431" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="162869:162975" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="163169:163275" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="163470:163576" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="164010:164116" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="164310:164416" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="164611:164717" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="164911:165017" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="165226:165332" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="165510:165616" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="165795:165901" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="166079:166185" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="166363:166469" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="167130:167178" placeholder="select web_i..web..." />
+                <marker date="1568735605437" expanded="true" signature="167674:167716" placeholder="select categ..web..." />
+                <marker date="1568735605437" expanded="true" signature="167851:167897" placeholder="update web S..." />
+                <marker date="1568735605437" expanded="true" signature="168014:168062" placeholder="select web_i..web..." />
+                <marker date="1568735605437" expanded="true" signature="168805:168848" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="170102:170146" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="170660:170711" placeholder="delete from ..." />
+                <marker date="1568735605437" expanded="true" signature="170783:170827" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="180717:180787" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="181241:181287" placeholder="select app_i..user_app..." />
+                <marker date="1568735605437" expanded="true" signature="181414:181457" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="182216:182266" placeholder="select web_i..user_website..." />
+                <marker date="1568735605437" expanded="true" signature="182381:182416" placeholder="select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="182995:183047" placeholder="select soft_..user_software..." />
+                <marker date="1568735605437" expanded="true" signature="183162:183215" placeholder="select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="183890:183935" placeholder="Select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="184465:184502" placeholder="Select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="184693:184739" placeholder="Select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="185119:185164" placeholder="Select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="185610:185647" placeholder="Select * fro..web..." />
+                <marker date="1568735605437" expanded="true" signature="185808:185854" placeholder="Select * fro..new_software..." />
+                <marker date="1568735605437" expanded="true" signature="186769:186811" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="189232:189529" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="190080:190145" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="190848:190949" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="191937:192063" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="192449:192550" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="193010:193136" placeholder="insert into ..." />
+                <marker date="1568735605437" expanded="true" signature="194392:194433" placeholder="select * fro..registration..." />
+                <marker date="1568735605437" expanded="true" signature="194785:194827" placeholder="select * fro..user_interest..." />
+                <marker date="1568735605437" expanded="true" signature="196271:196320" placeholder="select * fro..recommendation_data..." />
+                <marker date="1568735605437" expanded="true" signature="200117:200159" placeholder="select * fro..app_details..." />
+                <marker date="1568735605437" expanded="true" signature="201857:201938" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trendingapp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/trendingapp.html">
+      <file leaf-file-name="user_request.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user_request.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5384617" vertical-offset="3035" max-vertical-offset="4862">
-              <caret line="249" column="21" selection-start-line="207" selection-start-column="16" selection-end-line="249" selection-end-column="21" />
-              <folding>
-                <element signature="n#form#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="95.46154" vertical-offset="2482" max-vertical-offset="3383">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -310,106 +308,18 @@
       <file leaf-file-name="popular1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/popular1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="72.30769" vertical-offset="2968" max-vertical-offset="8704">
-              <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+            <state vertical-scroll-proportion="-83.69231" vertical-offset="0" max-vertical-offset="8704">
+              <caret line="136" column="41" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_recommendation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/app_recommendation.html">
+      <file leaf-file-name="admin_dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin_dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="111.80769" vertical-offset="3485" max-vertical-offset="4913">
-              <caret line="34" column="12" selection-start-line="29" selection-start-column="2" selection-end-line="34" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Retry/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="527">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <element signature="e#629#661#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Retryapp/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1887">
-              <caret line="83" column="83" selection-start-line="83" selection-start-column="83" selection-end-line="83" selection-end-column="83" />
-              <folding>
-                <element signature="e#24#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="website.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/website.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="37.923077" vertical-offset="1394" max-vertical-offset="8500">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashoard.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/dashoard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-132.07692" vertical-offset="0" max-vertical-offset="7344">
-              <caret line="222" column="70" selection-start-line="222" selection-start-column="70" selection-end-line="222" selection-end-column="70" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#for#2;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/register_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="13.511905" vertical-offset="4161" max-vertical-offset="8976">
-              <caret line="264" column="34" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
-              <folding>
-                <element signature="e#3393#3446#0#HTML" expanded="false" />
-                <element signature="e#3464#3518#0#HTML" expanded="false" />
-                <element signature="e#4407#4601#0#HTML" expanded="false" />
-                <element signature="e#4650#5618#0#HTML" expanded="false" />
-                <element signature="e#4702#4925#0#HTML" expanded="false" />
-                <element signature="e#4970#5264#0#HTML" expanded="false" />
-                <element signature="e#5308#5602#0#HTML" expanded="false" />
-                <element signature="e#5804#6072#0#HTML" expanded="false" />
-                <element signature="e#6121#6665#0#HTML" expanded="false" />
-                <element signature="e#6711#6914#0#HTML" expanded="false" />
-                <element signature="e#6959#7119#0#HTML" expanded="false" />
-                <element signature="e#7309#7515#0#HTML" expanded="false" />
-                <element signature="e#7922#8143#0#HTML" expanded="false" />
-                <element signature="e#8202#8362#0#HTML" expanded="false" />
-                <element signature="e#8558#8768#0#HTML" expanded="false" />
-                <element signature="e#8828#8988#0#HTML" expanded="false" />
-                <element signature="e#9174#9379#0#HTML" expanded="false" />
-                <element signature="e#9428#9588#0#HTML" expanded="false" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.115385" vertical-offset="1214" max-vertical-offset="2873">
-              <caret line="105" column="42" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="42" />
+            <state vertical-scroll-proportion="-44.115383" vertical-offset="842" max-vertical-offset="3315">
+              <caret line="122" column="67" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -593,6 +503,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Retryapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -621,7 +549,7 @@
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scarping_webpages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="configurable.group.tools" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -1016,29 +944,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2680965" sideWeight="0.4957627" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2580429" sideWeight="0.4957627" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18565683" sideWeight="0.5042373" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1089,34 +1017,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/addedsoftware.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.709091" vertical-offset="867" max-vertical-offset="5100">
-          <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/addedweb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0676692" vertical-offset="929" max-vertical-offset="4760">
-          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/appauth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.5595236" vertical-offset="551" max-vertical-offset="3774">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/editprofile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.706767" vertical-offset="1116" max-vertical-offset="5984">
-          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/editprofile_new.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.3095238" vertical-offset="979" max-vertical-offset="15912">
@@ -1359,7 +1259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5887" max-vertical-offset="6528">
           <caret line="413" column="22" selection-start-line="413" selection-start-column="22" selection-end-line="413" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1367,7 +1266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2975" max-vertical-offset="5712">
           <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1375,7 +1273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1360" max-vertical-offset="2992">
           <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1384,22 +1281,14 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
           <caret line="17" column="40" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="40" />
           <folding>
-            <element signature="e#629#661#0" expanded="true" />
+            <element signature="e#629#661#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/website.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="37.923077" vertical-offset="1394" max-vertical-offset="8500">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.115385" vertical-offset="1214" max-vertical-offset="2873">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1214" max-vertical-offset="2873">
           <caret line="105" column="42" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="42" />
           <folding />
         </state>
@@ -1407,332 +1296,347 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/register_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.511905" vertical-offset="4161" max-vertical-offset="8976">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4488" max-vertical-offset="10336">
           <caret line="264" column="34" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
-          <folding>
-            <element signature="e#3393#3446#0#HTML" expanded="false" />
-            <element signature="e#3464#3518#0#HTML" expanded="false" />
-            <element signature="e#4407#4601#0#HTML" expanded="false" />
-            <element signature="e#4650#5618#0#HTML" expanded="false" />
-            <element signature="e#4702#4925#0#HTML" expanded="false" />
-            <element signature="e#4970#5264#0#HTML" expanded="false" />
-            <element signature="e#5308#5602#0#HTML" expanded="false" />
-            <element signature="e#5804#6072#0#HTML" expanded="false" />
-            <element signature="e#6121#6665#0#HTML" expanded="false" />
-            <element signature="e#6711#6914#0#HTML" expanded="false" />
-            <element signature="e#6959#7119#0#HTML" expanded="false" />
-            <element signature="e#7309#7515#0#HTML" expanded="false" />
-            <element signature="e#7922#8143#0#HTML" expanded="false" />
-            <element signature="e#8202#8362#0#HTML" expanded="false" />
-            <element signature="e#8558#8768#0#HTML" expanded="false" />
-            <element signature="e#8828#8988#0#HTML" expanded="false" />
-            <element signature="e#9174#9379#0#HTML" expanded="false" />
-            <element signature="e#9428#9588#0#HTML" expanded="false" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/app_recommendation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="111.80769" vertical-offset="3485" max-vertical-offset="4913">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3485" max-vertical-offset="4913">
           <caret line="34" column="12" selection-start-line="29" selection-start-column="2" selection-end-line="34" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/popular1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="72.30769" vertical-offset="2968" max-vertical-offset="8704">
-          <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/trendingapp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5384617" vertical-offset="3035" max-vertical-offset="4862">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3451" max-vertical-offset="5134">
           <caret line="249" column="21" selection-start-line="207" selection-start-column="16" selection-end-line="249" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="45679">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/website.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5382215" vertical-offset="1394" max-vertical-offset="8500">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dashoard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3434" max-vertical-offset="7191">
+          <caret line="222" column="70" selection-start-line="222" selection-start-column="70" selection-end-line="222" selection-end-column="70" />
           <folding>
-            <element signature="n#form#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#for#2;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Retryapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1887">
+        <state vertical-scroll-proportion="0.6" vertical-offset="1003" max-vertical-offset="1887">
           <caret line="83" column="83" selection-start-line="83" selection-start-column="83" selection-end-line="83" selection-end-column="83" />
           <folding>
-            <element signature="e#24#65#0" expanded="true" />
+            <element signature="e#24#65#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dashoard.html">
+    <entry file="file://$PROJECT_DIR$/Retry/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-132.07692" vertical-offset="0" max-vertical-offset="7344">
-          <caret line="222" column="70" selection-start-line="222" selection-start-column="70" selection-end-line="222" selection-end-column="70" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#for#2;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.525" vertical-offset="1836" max-vertical-offset="2516">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="131" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/popular1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-83.69231" vertical-offset="0" max-vertical-offset="8704">
+          <caret line="136" column="41" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin_dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-44.115383" vertical-offset="842" max-vertical-offset="3315">
+          <caret line="122" column="67" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user_request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="95.46154" vertical-offset="2482" max-vertical-offset="3383">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Retryapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6929392" vertical-offset="74956" max-vertical-offset="85034">
-          <caret line="4434" column="26" selection-start-line="4434" selection-start-column="26" selection-end-line="4434" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.3322884" vertical-offset="19882" max-vertical-offset="85051">
+          <caret line="1182" column="32" selection-start-line="1182" selection-start-column="4" selection-end-line="1182" selection-end-column="32" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
-            <marker date="1565545375123" expanded="true" signature="2406:2440" placeholder="select * fro..login..." />
-            <marker date="1565545375123" expanded="true" signature="2575:2616" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="2949:2998" placeholder="select inter..user_interest..." />
-            <marker date="1565545375123" expanded="true" signature="4297:4343" placeholder="select app_i..user_app..." />
-            <marker date="1565545375123" expanded="true" signature="4498:4541" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="4891:4941" placeholder="select web_i..user_website..." />
-            <marker date="1565545375123" expanded="true" signature="5127:5162" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="5334:5386" placeholder="select soft_..user_software..." />
-            <marker date="1565545375123" expanded="true" signature="5526:5579" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="5992:6035" placeholder="select passw..login..." />
-            <marker date="1565545375123" expanded="true" signature="6703:6726" placeholder="select * fro..age_range..." />
-            <marker date="1565545375123" expanded="true" signature="6806:6842" placeholder="select * fro..educational_background..." />
-            <marker date="1565545375123" expanded="true" signature="6934:6953" placeholder="select * fro..state..." />
-            <marker date="1565545375123" expanded="true" signature="7028:7050" placeholder="select * fro..language..." />
-            <marker date="1565545375123" expanded="true" signature="7128:7148" placeholder="select * fro..income..." />
-            <marker date="1565545375123" expanded="true" signature="7224:7248" placeholder="select * fro..profession..." />
-            <marker date="1565545375123" expanded="true" signature="7328:7350" placeholder="select * fro..interest..." />
-            <marker date="1565545375123" expanded="true" signature="8023:8093" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="8677:8739" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="8983:9048" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="9726:9796" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="10383:10447" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="11173:11222" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="11872:11909" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="12126:12170" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="13223:13259" placeholder="select * fro..login..." />
-            <marker date="1565545375123" expanded="true" signature="13438:13500" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="13798:13953" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="14340:14398" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="14934:15089" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="15441:15499" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="16074:16229" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="16616:16674" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="17080:17235" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="17586:17644" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="18335:18358" placeholder="select * fro..age_range..." />
-            <marker date="1565545375123" expanded="true" signature="18462:18498" placeholder="select * fro..educational_background..." />
-            <marker date="1565545375123" expanded="true" signature="18614:18633" placeholder="select * fro..state..." />
-            <marker date="1565545375123" expanded="true" signature="18732:18754" placeholder="select * fro..language..." />
-            <marker date="1565545375123" expanded="true" signature="18856:18876" placeholder="select * fro..income..." />
-            <marker date="1565545375123" expanded="true" signature="18976:19000" placeholder="select * fro..profession..." />
-            <marker date="1565545375123" expanded="true" signature="19104:19126" placeholder="select * fro..interest..." />
-            <marker date="1565545375123" expanded="true" signature="19887:19957" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="20541:20603" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="20847:20912" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="21291:21332" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="21712:21754" placeholder="select * fro..user_interest..." />
-            <marker date="1565545375123" expanded="true" signature="23274:23323" placeholder="select * fro..recommendation_data..." />
-            <marker date="1565545375123" expanded="true" signature="24833:24875" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="26559:26620" placeholder="select lid,r..login..." />
-            <marker date="1565545375123" expanded="true" signature="27012:27058" placeholder="select statu..registration..." />
-            <marker date="1565545375123" expanded="true" signature="27243:27297" placeholder="select usern..registration..." />
-            <marker date="1565545375123" expanded="true" signature="28871:28921" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="29621:29691" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="30391:30461" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="30905:30967" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="31190:31252" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="31484:31549" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="31956:32021" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="32792:32830" placeholder="select email..login..." />
-            <marker date="1565545375123" expanded="true" signature="32972:33013" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="33149:33191" placeholder="select * fro..user_interest..." />
-            <marker date="1565545375123" expanded="true" signature="35140:35278" placeholder="update regis..." />
-            <marker date="1565545375123" expanded="true" signature="35465:35521" placeholder="update login..." />
-            <marker date="1565545375123" expanded="true" signature="35738:35783" placeholder="select image..registration..." />
-            <marker date="1565545375123" expanded="true" signature="35906:36044" placeholder="update regis..." />
-            <marker date="1565545375123" expanded="true" signature="36230:36286" placeholder="update login..." />
-            <marker date="1565545375123" expanded="true" signature="36489:36532" placeholder="select rid f..registration..." />
-            <marker date="1565545375123" expanded="true" signature="36643:36683" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="36796:36854" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="37181:37207" placeholder="SELECT * FRO..registration..." />
-            <marker date="1565545375123" expanded="true" signature="39165:39207" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="41654:41951" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="42583:42648" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="49247:49348" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="50488:50614" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="51064:51165" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="51705:51831" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="52068:52110" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="52267:52325" placeholder="select scree..app_screenshots..." />
-            <marker date="1565545375123" expanded="true" signature="52643:52694" placeholder="select * fro..app_reviews_result..." />
-            <marker date="1565545375123" expanded="true" signature="52879:52923" placeholder="select * fro..reviews_topic..." />
-            <marker date="1565545375123" expanded="true" signature="53297:53354" placeholder="select * fro..user_app..." />
-            <marker date="1565545375123" expanded="true" signature="53539:53622" placeholder="select statu..user_app_like_dislike_status..." />
-            <marker date="1565545375123" expanded="true" signature="58126:58227" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="59367:59493" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="59943:60044" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="60584:60710" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="60947:60989" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="61146:61204" placeholder="select scree..app_screenshots..." />
-            <marker date="1565545375123" expanded="true" signature="61522:61573" placeholder="select * fro..app_reviews_result..." />
-            <marker date="1565545375123" expanded="true" signature="61758:61802" placeholder="select * fro..reviews_topic..." />
-            <marker date="1565545375123" expanded="true" signature="62176:62233" placeholder="select * fro..user_app..." />
-            <marker date="1565545375123" expanded="true" signature="62418:62501" placeholder="select statu..user_app_like_dislike_status..." />
-            <marker date="1565545375123" expanded="true" signature="66183:66234" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="66350:66408" placeholder="select scree..app_screenshots..." />
-            <marker date="1565545375123" expanded="true" signature="66721:66772" placeholder="select * fro..app_reviews_result..." />
-            <marker date="1565545375123" expanded="true" signature="67022:67066" placeholder="select * fro..reviews_topic..." />
-            <marker date="1565545375123" expanded="true" signature="70563:70620" placeholder="select * fro..user_app..." />
-            <marker date="1565545375123" expanded="true" signature="70815:70898" placeholder="select statu..user_app_like_dislike_status..." />
-            <marker date="1565545375123" expanded="true" signature="74748:74782" placeholder="select * FRO..web..." />
-            <marker date="1565545375123" expanded="true" signature="78431:78728" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="81798:81904" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="82265:82371" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="82565:82671" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="83109:83215" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="83409:83515" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="83710:83816" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="84250:84356" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="84550:84656" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="84851:84957" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="85151:85257" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="85466:85572" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="85750:85856" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="86035:86141" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="86319:86425" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="86603:86709" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="86911:86945" placeholder="select * FRO..web..." />
-            <marker date="1565545375123" expanded="true" signature="87194:87235" placeholder="select * FRO..web_table..." />
-            <marker date="1565545375123" expanded="true" signature="88318:88379" placeholder="select * fro..user_website..." />
-            <marker date="1565545375123" expanded="true" signature="88554:88641" placeholder="select statu..user_website_like_dislike_status..." />
-            <marker date="1565545375123" expanded="true" signature="91835:91869" placeholder="select * FRO..web..." />
-            <marker date="1565545375123" expanded="true" signature="92215:92258" placeholder="update web S..." />
-            <marker date="1565545375123" expanded="true" signature="92355:92396" placeholder="select * FRO..web_table..." />
-            <marker date="1565545375123" expanded="true" signature="93433:93494" placeholder="select * fro..user_website..." />
-            <marker date="1565545375123" expanded="true" signature="93669:93756" placeholder="select statu..user_website_like_dislike_status..." />
-            <marker date="1565545375123" expanded="true" signature="97398:97450" placeholder="select * FRO..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="98300:98343" placeholder="select * FRO..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="98570:98631" placeholder="update new_s..." />
-            <marker date="1565545375123" expanded="true" signature="99532:99595" placeholder="select * fro..user_software..." />
-            <marker date="1565545375123" expanded="true" signature="99731:99820" placeholder="select statu..user_software_like_dislike_status..." />
-            <marker date="1565545375123" expanded="true" signature="114998:115053" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="115708:115763" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="116909:116968" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="117631:117690" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="118881:118942" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="119753:119814" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="120717:120796" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="121798:121884" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="122767:122855" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="123713:123800" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="123905:123955" placeholder="select app_l..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="124301:124355" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="125032:125107" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="125484:125537" placeholder="select app_d..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="125735:125792" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="126599:126690" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="126796:126838" placeholder="select web_l..web..." />
-            <marker date="1565545375123" expanded="true" signature="127185:127231" placeholder="update web S..." />
-            <marker date="1565545375123" expanded="true" signature="127917:127996" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="128373:128418" placeholder="select web_d..web..." />
-            <marker date="1565545375123" expanded="true" signature="128616:128665" placeholder="update web S..." />
-            <marker date="1565545375123" expanded="true" signature="129475:129568" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="129709:129780" placeholder="select title..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="130169:130238" placeholder="update new_s..." />
-            <marker date="1565545375123" expanded="true" signature="130928:131009" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="131387:131455" placeholder="select softw..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="131654:131726" placeholder="update new_s..." />
-            <marker date="1565545375123" expanded="true" signature="132470:132514" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="132724:132762" placeholder="select email..login..." />
-            <marker date="1565545375123" expanded="true" signature="133418:133468" placeholder="update regis..." />
-            <marker date="1565545375123" expanded="true" signature="133542:133585" placeholder="select lid f..registration..." />
-            <marker date="1565545375123" expanded="true" signature="133653:133691" placeholder="select email..login..." />
-            <marker date="1565545375123" expanded="true" signature="134217:134261" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="134473:134511" placeholder="select email..login..." />
-            <marker date="1565545375123" expanded="true" signature="135153:135196" placeholder="select lid f..registration..." />
-            <marker date="1565545375123" expanded="true" signature="135314:135354" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="135424:135463" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="135532:135564" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="135655:135699" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="135911:135949" placeholder="select email..login..." />
-            <marker date="1565545375123" expanded="true" signature="137048:137090" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="138791:139077" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="139600:139665" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="140274:140375" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="141287:141413" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="141762:141819" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="141987:142044" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="143769:143839" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="144339:144393" placeholder="select app_c..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="144567:144625" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="144768:144826" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="144936:145006" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="145773:145815" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="147516:147802" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="148320:148385" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="148994:149095" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="150007:150133" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="150487:150544" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="150712:150769" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="152236:152306" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="152780:152834" placeholder="select app_c..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="153002:153060" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="153203:153261" placeholder="update app_d..." />
-            <marker date="1565545375123" expanded="true" signature="153377:153447" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="153933:153980" placeholder="select site_..website..." />
-            <marker date="1565545375123" expanded="true" signature="154094:154132" placeholder="select title..web..." />
-            <marker date="1565545375123" expanded="true" signature="158202:158488" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="161557:161663" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="162024:162130" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="162324:162430" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="162868:162974" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="163168:163274" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="163469:163575" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="164009:164115" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="164309:164415" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="164610:164716" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="164910:165016" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="165225:165331" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="165509:165615" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="165794:165900" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="166078:166184" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="166362:166468" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="167129:167177" placeholder="select web_i..web..." />
-            <marker date="1565545375123" expanded="true" signature="167673:167715" placeholder="select categ..web..." />
-            <marker date="1565545375123" expanded="true" signature="167850:167896" placeholder="update web S..." />
-            <marker date="1565545375123" expanded="true" signature="168013:168061" placeholder="select web_i..web..." />
-            <marker date="1565545375123" expanded="true" signature="168804:168847" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="170101:170145" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="170659:170710" placeholder="delete from ..." />
-            <marker date="1565545375123" expanded="true" signature="170782:170826" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="180716:180786" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="181240:181286" placeholder="select app_i..user_app..." />
-            <marker date="1565545375123" expanded="true" signature="181413:181456" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="182215:182265" placeholder="select web_i..user_website..." />
-            <marker date="1565545375123" expanded="true" signature="182380:182415" placeholder="select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="182994:183046" placeholder="select soft_..user_software..." />
-            <marker date="1565545375123" expanded="true" signature="183161:183214" placeholder="select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="183889:183934" placeholder="Select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="184464:184501" placeholder="Select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="184692:184738" placeholder="Select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="185118:185163" placeholder="Select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="185609:185646" placeholder="Select * fro..web..." />
-            <marker date="1565545375123" expanded="true" signature="185807:185853" placeholder="Select * fro..new_software..." />
-            <marker date="1565545375123" expanded="true" signature="186768:186810" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="189231:189528" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="190079:190144" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="190847:190948" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="191936:192062" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="192448:192549" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="193009:193135" placeholder="insert into ..." />
-            <marker date="1565545375123" expanded="true" signature="194391:194432" placeholder="select * fro..registration..." />
-            <marker date="1565545375123" expanded="true" signature="194784:194826" placeholder="select * fro..user_interest..." />
-            <marker date="1565545375123" expanded="true" signature="196270:196319" placeholder="select * fro..recommendation_data..." />
-            <marker date="1565545375123" expanded="true" signature="200116:200158" placeholder="select * fro..app_details..." />
-            <marker date="1565545375123" expanded="true" signature="201856:201937" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="2406:2440" placeholder="select * fro..login..." />
+            <marker date="1568735605437" expanded="true" signature="2575:2616" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="2949:2998" placeholder="select inter..user_interest..." />
+            <marker date="1568735605437" expanded="true" signature="4297:4343" placeholder="select app_i..user_app..." />
+            <marker date="1568735605437" expanded="true" signature="4498:4541" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="4891:4941" placeholder="select web_i..user_website..." />
+            <marker date="1568735605437" expanded="true" signature="5127:5162" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="5334:5386" placeholder="select soft_..user_software..." />
+            <marker date="1568735605437" expanded="true" signature="5526:5579" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="5992:6035" placeholder="select passw..login..." />
+            <marker date="1568735605437" expanded="true" signature="6703:6726" placeholder="select * fro..age_range..." />
+            <marker date="1568735605437" expanded="true" signature="6806:6842" placeholder="select * fro..educational_background..." />
+            <marker date="1568735605437" expanded="true" signature="6934:6953" placeholder="select * fro..state..." />
+            <marker date="1568735605437" expanded="true" signature="7028:7050" placeholder="select * fro..language..." />
+            <marker date="1568735605437" expanded="true" signature="7128:7148" placeholder="select * fro..income..." />
+            <marker date="1568735605437" expanded="true" signature="7224:7248" placeholder="select * fro..profession..." />
+            <marker date="1568735605437" expanded="true" signature="7328:7350" placeholder="select * fro..interest..." />
+            <marker date="1568735605437" expanded="true" signature="8023:8093" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="8677:8739" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="8983:9048" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="9726:9796" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="10383:10447" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="11173:11222" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="11872:11909" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="12126:12170" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="13223:13259" placeholder="select * fro..login..." />
+            <marker date="1568735605437" expanded="true" signature="13438:13500" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="13798:13953" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="14340:14398" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="14934:15089" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="15441:15499" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="16074:16229" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="16616:16674" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="17080:17235" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="17586:17644" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="18335:18358" placeholder="select * fro..age_range..." />
+            <marker date="1568735605437" expanded="true" signature="18462:18498" placeholder="select * fro..educational_background..." />
+            <marker date="1568735605437" expanded="true" signature="18614:18633" placeholder="select * fro..state..." />
+            <marker date="1568735605437" expanded="true" signature="18732:18754" placeholder="select * fro..language..." />
+            <marker date="1568735605437" expanded="true" signature="18856:18876" placeholder="select * fro..income..." />
+            <marker date="1568735605437" expanded="true" signature="18976:19000" placeholder="select * fro..profession..." />
+            <marker date="1568735605437" expanded="true" signature="19104:19126" placeholder="select * fro..interest..." />
+            <marker date="1568735605437" expanded="true" signature="19887:19957" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="20541:20603" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="20847:20912" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="21291:21332" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="21712:21754" placeholder="select * fro..user_interest..." />
+            <marker date="1568735605437" expanded="true" signature="23274:23323" placeholder="select * fro..recommendation_data..." />
+            <marker date="1568735605437" expanded="true" signature="24833:24875" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="26559:26620" placeholder="select lid,r..login..." />
+            <marker date="1568735605437" expanded="true" signature="27012:27058" placeholder="select statu..registration..." />
+            <marker date="1568735605437" expanded="true" signature="27243:27297" placeholder="select usern..registration..." />
+            <marker date="1568735605437" expanded="true" signature="28871:28921" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="29621:29691" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="30391:30461" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="30905:30967" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="31190:31252" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="31484:31549" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="31956:32021" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="32792:32830" placeholder="select email..login..." />
+            <marker date="1568735605437" expanded="true" signature="32972:33013" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="33149:33191" placeholder="select * fro..user_interest..." />
+            <marker date="1568735605437" expanded="true" signature="35140:35278" placeholder="update regis..." />
+            <marker date="1568735605437" expanded="true" signature="35465:35521" placeholder="update login..." />
+            <marker date="1568735605437" expanded="true" signature="35738:35783" placeholder="select image..registration..." />
+            <marker date="1568735605437" expanded="true" signature="35906:36044" placeholder="update regis..." />
+            <marker date="1568735605437" expanded="true" signature="36230:36286" placeholder="update login..." />
+            <marker date="1568735605437" expanded="true" signature="36489:36532" placeholder="select rid f..registration..." />
+            <marker date="1568735605437" expanded="true" signature="36643:36683" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="36796:36854" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="37181:37207" placeholder="SELECT * FRO..registration..." />
+            <marker date="1568735605437" expanded="true" signature="39165:39207" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="41654:41951" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="42583:42648" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="49247:49348" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="50488:50614" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="51064:51165" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="51705:51831" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="52068:52110" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="52267:52325" placeholder="select scree..app_screenshots..." />
+            <marker date="1568735605437" expanded="true" signature="52643:52694" placeholder="select * fro..app_reviews_result..." />
+            <marker date="1568735605437" expanded="true" signature="52879:52923" placeholder="select * fro..reviews_topic..." />
+            <marker date="1568735605437" expanded="true" signature="53297:53354" placeholder="select * fro..user_app..." />
+            <marker date="1568735605437" expanded="true" signature="53539:53622" placeholder="select statu..user_app_like_dislike_status..." />
+            <marker date="1568735605437" expanded="true" signature="58126:58227" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="59367:59493" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="59943:60044" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="60584:60710" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="60947:60989" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="61146:61204" placeholder="select scree..app_screenshots..." />
+            <marker date="1568735605437" expanded="true" signature="61522:61573" placeholder="select * fro..app_reviews_result..." />
+            <marker date="1568735605437" expanded="true" signature="61758:61802" placeholder="select * fro..reviews_topic..." />
+            <marker date="1568735605437" expanded="true" signature="62176:62233" placeholder="select * fro..user_app..." />
+            <marker date="1568735605437" expanded="true" signature="62418:62501" placeholder="select statu..user_app_like_dislike_status..." />
+            <marker date="1568735605437" expanded="true" signature="66183:66234" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="66350:66408" placeholder="select scree..app_screenshots..." />
+            <marker date="1568735605437" expanded="true" signature="66721:66772" placeholder="select * fro..app_reviews_result..." />
+            <marker date="1568735605437" expanded="true" signature="67022:67066" placeholder="select * fro..reviews_topic..." />
+            <marker date="1568735605437" expanded="true" signature="70563:70620" placeholder="select * fro..user_app..." />
+            <marker date="1568735605437" expanded="true" signature="70815:70898" placeholder="select statu..user_app_like_dislike_status..." />
+            <marker date="1568735605437" expanded="true" signature="74748:74782" placeholder="select * FRO..web..." />
+            <marker date="1568735605437" expanded="true" signature="78431:78728" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="81798:81904" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="82265:82371" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="82565:82671" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="83109:83215" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="83409:83515" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="83710:83816" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="84250:84356" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="84550:84656" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="84851:84957" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="85151:85257" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="85466:85572" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="85750:85856" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="86035:86141" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="86319:86425" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="86603:86709" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="86911:86945" placeholder="select * FRO..web..." />
+            <marker date="1568735605437" expanded="true" signature="87194:87235" placeholder="select * FRO..web_table..." />
+            <marker date="1568735605437" expanded="true" signature="88318:88379" placeholder="select * fro..user_website..." />
+            <marker date="1568735605437" expanded="true" signature="88554:88641" placeholder="select statu..user_website_like_dislike_status..." />
+            <marker date="1568735605437" expanded="true" signature="91835:91869" placeholder="select * FRO..web..." />
+            <marker date="1568735605437" expanded="true" signature="92215:92258" placeholder="update web S..." />
+            <marker date="1568735605437" expanded="true" signature="92355:92396" placeholder="select * FRO..web_table..." />
+            <marker date="1568735605437" expanded="true" signature="93433:93494" placeholder="select * fro..user_website..." />
+            <marker date="1568735605437" expanded="true" signature="93669:93756" placeholder="select statu..user_website_like_dislike_status..." />
+            <marker date="1568735605437" expanded="true" signature="97398:97450" placeholder="select * FRO..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="98300:98343" placeholder="select * FRO..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="98570:98631" placeholder="update new_s..." />
+            <marker date="1568735605437" expanded="true" signature="99532:99595" placeholder="select * fro..user_software..." />
+            <marker date="1568735605437" expanded="true" signature="99731:99820" placeholder="select statu..user_software_like_dislike_status..." />
+            <marker date="1568735605437" expanded="true" signature="114998:115053" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="115708:115763" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="116909:116968" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="117631:117690" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="118881:118942" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="119753:119814" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="120717:120796" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="121798:121884" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="122767:122855" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="123713:123800" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="123905:123955" placeholder="select app_l..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="124301:124355" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="125032:125107" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="125484:125537" placeholder="select app_d..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="125735:125792" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="126599:126690" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="126796:126838" placeholder="select web_l..web..." />
+            <marker date="1568735605437" expanded="true" signature="127185:127231" placeholder="update web S..." />
+            <marker date="1568735605437" expanded="true" signature="127917:127996" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="128373:128418" placeholder="select web_d..web..." />
+            <marker date="1568735605437" expanded="true" signature="128616:128665" placeholder="update web S..." />
+            <marker date="1568735605437" expanded="true" signature="129475:129568" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="129709:129780" placeholder="select title..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="130169:130238" placeholder="update new_s..." />
+            <marker date="1568735605437" expanded="true" signature="130928:131009" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="131387:131455" placeholder="select softw..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="131654:131726" placeholder="update new_s..." />
+            <marker date="1568735605437" expanded="true" signature="132470:132514" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="132724:132762" placeholder="select email..login..." />
+            <marker date="1568735605437" expanded="true" signature="133418:133468" placeholder="update regis..." />
+            <marker date="1568735605437" expanded="true" signature="133542:133585" placeholder="select lid f..registration..." />
+            <marker date="1568735605437" expanded="true" signature="133653:133691" placeholder="select email..login..." />
+            <marker date="1568735605437" expanded="true" signature="134217:134261" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="134473:134511" placeholder="select email..login..." />
+            <marker date="1568735605437" expanded="true" signature="135153:135196" placeholder="select lid f..registration..." />
+            <marker date="1568735605437" expanded="true" signature="135314:135354" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="135424:135463" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="135532:135564" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="135655:135699" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="135911:135949" placeholder="select email..login..." />
+            <marker date="1568735605437" expanded="true" signature="137048:137090" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="138792:139078" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="139601:139666" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="140275:140376" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="141288:141414" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="141763:141820" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="141988:142045" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="143770:143840" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="144340:144394" placeholder="select app_c..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="144568:144626" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="144769:144827" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="144937:145007" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="145774:145816" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="147517:147803" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="148321:148386" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="148995:149096" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="150008:150134" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="150488:150545" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="150713:150770" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="152237:152307" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="152781:152835" placeholder="select app_c..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="153003:153061" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="153204:153262" placeholder="update app_d..." />
+            <marker date="1568735605437" expanded="true" signature="153378:153448" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="153934:153981" placeholder="select site_..website..." />
+            <marker date="1568735605437" expanded="true" signature="154095:154133" placeholder="select title..web..." />
+            <marker date="1568735605437" expanded="true" signature="158203:158489" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="161558:161664" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="162025:162131" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="162325:162431" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="162869:162975" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="163169:163275" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="163470:163576" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="164010:164116" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="164310:164416" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="164611:164717" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="164911:165017" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="165226:165332" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="165510:165616" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="165795:165901" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="166079:166185" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="166363:166469" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="167130:167178" placeholder="select web_i..web..." />
+            <marker date="1568735605437" expanded="true" signature="167674:167716" placeholder="select categ..web..." />
+            <marker date="1568735605437" expanded="true" signature="167851:167897" placeholder="update web S..." />
+            <marker date="1568735605437" expanded="true" signature="168014:168062" placeholder="select web_i..web..." />
+            <marker date="1568735605437" expanded="true" signature="168805:168848" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="170102:170146" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="170660:170711" placeholder="delete from ..." />
+            <marker date="1568735605437" expanded="true" signature="170783:170827" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="180717:180787" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="181241:181287" placeholder="select app_i..user_app..." />
+            <marker date="1568735605437" expanded="true" signature="181414:181457" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="182216:182266" placeholder="select web_i..user_website..." />
+            <marker date="1568735605437" expanded="true" signature="182381:182416" placeholder="select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="182995:183047" placeholder="select soft_..user_software..." />
+            <marker date="1568735605437" expanded="true" signature="183162:183215" placeholder="select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="183890:183935" placeholder="Select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="184465:184502" placeholder="Select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="184693:184739" placeholder="Select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="185119:185164" placeholder="Select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="185610:185647" placeholder="Select * fro..web..." />
+            <marker date="1568735605437" expanded="true" signature="185808:185854" placeholder="Select * fro..new_software..." />
+            <marker date="1568735605437" expanded="true" signature="186769:186811" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="189232:189529" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="190080:190145" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="190848:190949" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="191937:192063" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="192449:192550" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="193010:193136" placeholder="insert into ..." />
+            <marker date="1568735605437" expanded="true" signature="194392:194433" placeholder="select * fro..registration..." />
+            <marker date="1568735605437" expanded="true" signature="194785:194827" placeholder="select * fro..user_interest..." />
+            <marker date="1568735605437" expanded="true" signature="196271:196320" placeholder="select * fro..recommendation_data..." />
+            <marker date="1568735605437" expanded="true" signature="200117:200159" placeholder="select * fro..app_details..." />
+            <marker date="1568735605437" expanded="true" signature="201857:201938" placeholder="insert into ..." />
           </folding>
         </state>
       </provider>

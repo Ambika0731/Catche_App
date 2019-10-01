@@ -3349,6 +3349,7 @@ def application_search_treanding(st):
         #print(search_term)
         cursor.execute(query5)
         a = cursor.fetchall()
+
         #print("ac", a)
 
         if (a == []):
